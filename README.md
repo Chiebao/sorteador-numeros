@@ -1,38 +1,30 @@
-🎲 Sorteador de Números
+# Sorteador de Números
 
-Projeto desenvolvido durante meus estudos na Alura, com o objetivo de praticar lógica de programação e consolidar conhecimentos em desenvolvimento web.
+Página web que sorteia números aleatórios **sem repetição** dentro de um intervalo escolhido pelo usuário. Projeto feito nos estudos de lógica de programação da Alura.
 
-🚀 Tecnologias utilizadas
+---
 
-HTML5 → Estrutura da página
+## Funcionalidades
 
-CSS3 → Estilização e usabilidade da interface
+- Escolha da quantidade de números e do intervalo (de / até)
+- Sorteio sem números repetidos
+- Botão de reiniciar, que só fica ativo depois do primeiro sorteio
 
-JavaScript (ES6+) → Implementação da lógica, manipulação do DOM e interatividade
+## Como executar
 
-📌 Funcionalidades
+Basta abrir o `index.html` no navegador.
 
-Definir intervalo de números para sorteio
+## O que pratiquei
 
-Escolher quantidade de números a serem sorteados
+- Laços e condicionais para evitar números repetidos
+- Manipulação do DOM: leitura dos campos, exibição do resultado e troca de classes CSS
+- Separação entre estrutura (HTML), estilo (CSS) e comportamento (JavaScript)
 
-Garantir que não haja repetições
+## Tecnologias
 
-Interface personalizada e responsiva
+`HTML` `CSS` `JavaScript`
 
-🎯 Aprendizados
+---
 
-Durante o desenvolvimento, pude:
-
-Exercitar a integração entre lógica e interface
-
-Aprimorar a interatividade dinâmica com JavaScript
-
-Fortalecer fundamentos de HTML e CSS
-
-Aplicar boas práticas de programação e usabilidade
-
-
-📄 Licença
-
-Este projeto está sob a licença MIT.
+**Luana Godoy** · Estudante de Análise e Desenvolvimento de Sistemas
+[LinkedIn](https://www.linkedin.com/in/luana-chiebao) · [GitHub](https://github.com/Chiebao)
